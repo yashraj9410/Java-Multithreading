@@ -1,5 +1,6 @@
 package threadPractice;
 
+// Problem status to implement synchronised thread in java handling a shared resource
 class MyData {
     // same resource method for both threads
     public synchronized void display(String str){
