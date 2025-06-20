@@ -6,6 +6,6 @@ package threadPractice;
 // input n = 2,
 // output will be like 2,4 /  4,6 / 8,10
 // '/' denotes waiting for 1 seconds
-
+//
 public class PrintNum {
 }
