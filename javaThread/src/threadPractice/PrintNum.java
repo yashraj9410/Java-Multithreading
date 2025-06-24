@@ -8,4 +8,7 @@ package threadPractice;
 // '/' denotes waiting for 1 seconds
 //
 public class PrintNum {
+    int n = 2;
+    int threads  = 2;
+
 }
